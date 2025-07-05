@@ -1,1 +1,0 @@
-Mannual Testing project
